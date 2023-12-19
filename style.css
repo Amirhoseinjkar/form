@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: green;
+}
+
+h1{
+text-align:center ;
+margin-top: 20px;
+
+}
+.container{
+  background: #fff;
+  position: absolute;
+  left: 20%;
+  right: 20%;
+  padding-left: 10px;
+  margin-top: 10px;
+  
+}
+.input{
+  width: 90%;
+  margin-bottom: 20px;
+  border-radius: 2px;
+  padding: 5px;
+}
+input{
+  margin-bottom: 2%;
+}
+#dropdown{
+  margin-bottom: 20px;
+  width: 90%;
+  padding: 5px;
+
+}
+#submit{
+width: 90%;
+padding: 5px;
+margin-top: 10px;
+margin-left: 10px;
+background: green;
+font-size: 30px;
+}
